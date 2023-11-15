@@ -5,7 +5,7 @@ This is my collection of Max for Live 8 Devices
 ### Kill Switch
 https://github.com/Einlogic-Org/MaxDevices/raw/main/Devices/Kill%20Switch.amxd
 
-Used to force note off and sustain pedal up midi messages whenever your rig malfunctions and one or more note off or sustain pedal up messages get lost.
+A Midi effect device that is used to force note off and sustain pedal up midi messages whenever your rig malfunctions and one or more note off or sustain pedal up messages get lost.  Just put it in your effects change for your midi track and optionally midi map it to create an easy "kill switch" on your keyboard.
 
 ![image](https://github.com/Einlogic-Org/MaxDevices/assets/11468797/b4fdc625-4746-49e9-a87e-148f10f76805)
 
