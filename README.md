@@ -1,5 +1,5 @@
-# MaxDevices
-Collection of Max for Live 8 Devices
+# Welcome
+This is my collection of Max for Live 8 Devices
 
 # Devices
 ### Kill Switch
