@@ -16,3 +16,5 @@ https://github.com/Einlogic-Org/MaxDevices/raw/main/Devices/Channel%20Strip.amxd
 A Midi effect device that allows for selecting what channels from the input midi device are allowed to pass into the patch.  This becomes very useful when setting up an Ableton project where there is a single Master Midi track that all other tracks want to reference, but still provide seperatio at the midi channel level to allow the individual midi sources to play individual patches.  The channel strip also allows for overlapping midi channels (such as track 1 accepting midi channels 1,2 & 3 while track 2 accepts channels 1 & 3 only)
 
 ![image](https://github.com/Einlogic-Org/MaxDevices/assets/11468797/829e6212-958f-4603-84b3-7b5c14121243)
+
+![image](https://github.com/Einlogic-Org/MaxDevices/assets/11468797/45345c63-dc5b-4a7b-ac85-5a1af0f39874)
