@@ -9,3 +9,6 @@ A Midi effect device that is used to force note off and sustain pedal up midi me
 
 ![image](https://github.com/Einlogic-Org/MaxDevices/assets/11468797/b4fdc625-4746-49e9-a87e-148f10f76805)
 
+
+### Channel Strip
+A Midi effect device that allows for selecting what channels from the input midi device are allowed to pass into the patch.  This becomes very useful when setting up an Ableton project where there is a single Master Midi track that all other tracks want to reference, but still provide seperation at the midi channel level to allow the individual midi sources to play individual patches.  The channel strip also allows for overlapping midi channels (such as track 1 accepting midi channels 1,2 & 3 while track 2 accepts channels 1 & 3 only)
